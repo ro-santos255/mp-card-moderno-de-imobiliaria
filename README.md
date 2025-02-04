@@ -8,16 +8,29 @@
 
 ## 🔨 Requisitos
 
-- Requisito 1
-- Requisito 2
+### Requisito 1
+Comece criando a primeira sessão do card:
+- O cartão deve exibir uma imagem principal da propriedade.
+- Exibir o título da propriedade (ex: "Apartamento moderno").
 
-	> 👀 **Dicas:**
-	> - Dica A sobre Req 2.
-	> - Dica B sobre Req 2.
+### Requisito 2
+Para esse segundo requisito, é necessário:
+ - Mostrar a avaliação da propriedade em estrelas (ex: 4.8) e o número de avaliações.
+ - Incluir uma breve descrição da propriedade.
 
-- Requisito 3
-- ...
-
+### Requisito 3
+Inclua uma sessão para os detalhes adicionais:
+- Exibir detalhes como metragem (ex: 85m²), número de quartos e banheiros.
+- Mostrar a localização da propriedade com um ícone de mapa.
+- Incluir tags que descrevem características da propriedade (ex: "Varanda", "Mobiliado", "Pet-friendly").
+  
+### Requisito 4
+Crie a última sessão do card que contenha:
+- Exibir o preço da propriedade em destaque, com formatação adequada (ex: R$250,000).
+- Incluir botões para "Agendar visita" e "Contatar corretor".
+- O botão "Agendar visita" deve ter um estilo primário (verde).
+- O botão "Contatar corretor" deve ter um estilo secundário (borda verde e fundo branco).
+	
 ## 🔨 Desafio extra para quem quer ir além
 
 (Essa seção é opcional)
