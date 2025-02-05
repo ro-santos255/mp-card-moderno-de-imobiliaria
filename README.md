@@ -1,4 +1,4 @@
-# Card simples de imobiliária
+# Card moderno de imobiliária
 
 Este mini-projeto consiste na criação de um componente de interface para exibir informações de um imóvel em um card. O objetivo é praticar a construção de interfaces utilizando HTML e CSS.
 
