@@ -1,10 +1,11 @@
-# Nome do Mini Projeto
+# Card simples de imobiliária
 
-(um parágrafo explicando)
+Este mini-projeto consiste na criação de um componente de interface para exibir informações de um imóvel em um card. O objetivo é praticar a construção de interfaces utilizando HTML e CSS.
 
 ## 🤓 Antes de começar
 
-(Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
+Para rodar o projeto, basta abrir o arquivo `index.html` em qualquer navegador. Não é necessário instalar dependências adicionais, pois o projeto utiliza apenas HTM e CSS. 
+Baixe a extensão `go live` para renderizar o projeto.
 
 ## 🔨 Requisitos
 
@@ -50,13 +51,18 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 #### 
 
-- Habilidade 1 do React
-- Habilidade 2
+O que você irá praticar:
 
-#### TailwindCSS
+## HTML
 
-- Habilidade 1 do TailwindCSS
+- Estruturação de conteúdo
+- Uso de tags semânticas
 
-### Pré requisitos
+## CSS
 
-(coloque aqui se houver algum)
+- Layout responsivo
+- Estilização avançada
+
+# Pré-requisitos
+
+Conhecimento em HTML e CSS
