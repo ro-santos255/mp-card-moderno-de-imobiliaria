@@ -33,11 +33,9 @@ Crie a última sessão do card que contenha:
 	
 ## 🔨 Desafio extra para quem quer ir além
 
-(Essa seção é opcional)
-
-- Requisito extra 1. 
-- Requisito extra 2.
-
+- Implemente o modo responsivo. 
+- Adicionar um botão para alternar entre temas claro e escuro.
+  
 ## 🎨 Design Sugerido
 
 Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar a aplicação conforme a sua criatividade.
@@ -50,7 +48,7 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### O que você irá praticar:
 
-#### React
+#### 
 
 - Habilidade 1 do React
 - Habilidade 2
