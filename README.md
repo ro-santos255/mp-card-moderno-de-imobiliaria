@@ -50,10 +50,6 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 ### O que você irá praticar:
 
-#### 
-
-O que você irá praticar:
-
 ## HTML
 
 - Estruturação de conteúdo
