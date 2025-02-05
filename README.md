@@ -42,9 +42,10 @@ Crie a última sessão do card que contenha:
 
 Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar a aplicação conforme a sua criatividade.
 
-### Figma
-
 🔗 [Link do design](https://www.figma.com/community/file/1468963128332835219)
+
+<img width="446" alt="Screenshot 2025-02-05 at 17 27 49" src="https://github.com/user-attachments/assets/31594a28-32eb-4f70-ada9-8a2a9b9c8d4b" />
+
 
 ## 👉🏽 Sobre esse mini-projeto
 
