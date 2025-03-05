@@ -4,7 +4,7 @@ Este mini-projeto consiste na criação de um componente de interface para exibi
 
 ## 🤓 Antes de começar
 
-Para rodar o projeto, basta abrir o arquivo `index.html` em qualquer navegador. Não é necessário instalar dependências adicionais, pois o projeto utiliza apenas HTM e CSS. 
+Para rodar o projeto, basta abrir o arquivo `index.html` em qualquer navegador. Não é necessário instalar dependências adicionais, pois o projeto utiliza apenas HTML e CSS. 
 
 Baixe a extensão `go live` para renderizar o projeto.
 
