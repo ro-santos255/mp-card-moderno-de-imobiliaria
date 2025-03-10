@@ -61,6 +61,6 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 - Layout responsivo
 - Estilização avançada
 
-# Pré-requisitos
+## Pré-requisitos
 
 Conhecimento em HTML e CSS
